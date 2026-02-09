@@ -1,0 +1,33 @@
+#gemini below
+# streamlit
+# python-dotenv
+# PyPDF2
+# chromadb
+# langchain-community
+# langchain
+# langchain-google-genai
+# google-generativeai
+# faiss-cpu
+
+streamlit
+python-dotenv
+
+# PDF processing
+pypdf
+
+# LangChain core
+langchain
+langchain-community
+
+# Vector store
+faiss-cpu
+
+# LLM (Groq)
+langchain-groq
+
+# Embeddings (free, offline)
+sentence-transformers
+
+# # Visualization
+# wordcloud
+# matplotlib
